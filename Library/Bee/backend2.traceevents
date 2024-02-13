@@ -1,0 +1,290 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1707247005522750, "dur":21352, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707247005544110, "dur":70, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707247005544208, "dur":415, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707247005544701, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":0, "ts":1707247005544756, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":0, "ts":1707247005544812, "dur":132, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":0, "ts":1707247005544948, "dur":89, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/level0" }}
+,{ "pid":12345, "tid":0, "ts":1707247005545143, "dur":62, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":0, "ts":1707247005545208, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":0, "ts":1707247005545389, "dur":82, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":0, "ts":1707247005545602, "dur":54, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005545658, "dur":56, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005545799, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005545892, "dur":81, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005546019, "dur":119, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005546314, "dur":51, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005546368, "dur":122, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005546514, "dur":55, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005546667, "dur":102, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005547037, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005547181, "dur":61, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005547370, "dur":72, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005547494, "dur":73, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005547986, "dur":64, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005548331, "dur":52, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005549241, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":0, "ts":1707247005549900, "dur":58, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles Birdpool/AvianGames.exe" }}
+,{ "pid":12345, "tid":0, "ts":1707247005544645, "dur":6110, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707247005550757, "dur":176558, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707247005727316, "dur":259, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707247005727747, "dur":1118, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1707247005545626, "dur":5163, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707247005550792, "dur":1282, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707247005552074, "dur":5215, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707247005557319, "dur":283, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1707247005557300, "dur":303, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1707247005557935, "dur":4484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":1, "ts":1707247005562529, "dur":155, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1707247005562523, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1707247005562704, "dur":1294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":1, "ts":1707247005564084, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005564082, "dur":141, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005564306, "dur":11572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005575993, "dur":1796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005577872, "dur":435, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Projects\\AvianGames\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005577870, "dur":438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005578323, "dur":1884, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005580242, "dur":2546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005582953, "dur":2482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005587742, "dur":215, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707247005585566, "dur":2408, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005589944, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1707247005588195, "dur":2284, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005590656, "dur":2240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005592998, "dur":512, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005592995, "dur":517, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005593526, "dur":27079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1707247005620702, "dur":106616, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707247005545277, "dur":5486, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707247005550766, "dur":6521, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707247005576582, "dur":1146, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":2, "ts":1707247005577732, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1707247005577888, "dur":3464, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":2, "ts":1707247005581354, "dur":335, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":2, "ts":1707247005581834, "dur":146, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\mono\\Managed\\UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1707247005582389, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Playeraddd7966-inputdata.json" }}
+,{ "pid":12345, "tid":2, "ts":1707247005577731, "dur":4917, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1707247005583627, "dur":732, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1707247005585139, "dur":136185, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1707247005726574, "dur":87, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1707247005726573, "dur":89, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/boot.config" }}
+,{ "pid":12345, "tid":2, "ts":1707247005726675, "dur":606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1707247005546181, "dur":4653, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707247005550834, "dur":6463, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707247005557300, "dur":218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1707247005558946, "dur":1944, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":3, "ts":1707247005560976, "dur":132, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1707247005560974, "dur":135, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1707247005561156, "dur":1191, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":3, "ts":1707247005562430, "dur":179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1707247005562645, "dur":1364, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1707247005564135, "dur":1248, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames.exe" }}
+,{ "pid":12345, "tid":3, "ts":1707247005565595, "dur":5352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005571072, "dur":1194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005572389, "dur":1974, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005574478, "dur":3554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005578126, "dur":195, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Projects\\AvianGames\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005578125, "dur":197, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005578338, "dur":1623, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005580002, "dur":1610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005581700, "dur":185, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707247005581888, "dur":1962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005583956, "dur":1666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005587759, "dur":210, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707247005585729, "dur":2249, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005589965, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707247005588079, "dur":2427, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005590626, "dur":88, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1707247005590717, "dur":2527, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1707247005593393, "dur":1928, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":3, "ts":1707247005595347, "dur":131965, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707247005545579, "dur":5203, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707247005550784, "dur":1475, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707247005552259, "dur":5052, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707247005557326, "dur":206, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":4, "ts":1707247005557312, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1707247005574745, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":4, "ts":1707247005576290, "dur":2094, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005578478, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Projects\\AvianGames\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005578477, "dur":106, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005578621, "dur":1882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005580546, "dur":1771, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005582429, "dur":1947, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005584508, "dur":2737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005589843, "dur":115, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707247005587413, "dur":3046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005590653, "dur":2851, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1707247005595417, "dur":108, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1707247005593619, "dur":1918, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":4, "ts":1707247005595609, "dur":131743, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707247005545465, "dur":5305, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707247005550776, "dur":1217, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707247005551993, "dur":5340, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707247005557333, "dur":232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1707247005577954, "dur":57, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707247005575806, "dur":2220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":5, "ts":1707247005578118, "dur":327, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Projects\\AvianGames\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707247005578116, "dur":330, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707247005578473, "dur":51, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1707247005578526, "dur":1506, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707247005580097, "dur":3551, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707247005583765, "dur":2414, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707247005586278, "dur":2112, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707247005588505, "dur":2741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707247005591496, "dur":2759, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1707247005594365, "dur":1650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":5, "ts":1707247005596036, "dur":131300, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707247005545886, "dur":4916, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707247005550805, "dur":1396, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707247005552201, "dur":5133, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707247005557334, "dur":216, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1707247005578375, "dur":135, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1707247005576456, "dur":2070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1707247005578643, "dur":1967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707247005580757, "dur":2085, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707247005582967, "dur":1625, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707247005584718, "dur":2179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707247005587040, "dur":2143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707247005589416, "dur":1371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707247005590916, "dur":2126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1707247005593259, "dur":1602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":6, "ts":1707247005594882, "dur":132435, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707247005545740, "dur":5055, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707247005550797, "dur":1386, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707247005552184, "dur":5147, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707247005557331, "dur":213, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1707247005575223, "dur":1410, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":7, "ts":1707247005576755, "dur":1943, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707247005578786, "dur":2741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707247005581657, "dur":72, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707247005581732, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707247005583799, "dur":1925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707247005585836, "dur":2327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707247005588258, "dur":2307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707247005590668, "dur":55, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1707247005590726, "dur":1397, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707247005592238, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1707247005594136, "dur":3049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1707247005597208, "dur":130117, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707247005546018, "dur":4798, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707247005550820, "dur":1018, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707247005551838, "dur":5450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707247005557871, "dur":2699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1707247005560573, "dur":160, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1707247005560912, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1707247005562138, "dur":156, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1707247005562133, "dur":162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1707247005562541, "dur":1257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1707247005563888, "dur":154, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005563882, "dur":161, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005564248, "dur":2222, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005566603, "dur":4377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005571089, "dur":1257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005572457, "dur":1059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005573658, "dur":1201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005574961, "dur":1162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005576230, "dur":1413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005577721, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Projects\\AvianGames\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005577719, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005577856, "dur":1436, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005579328, "dur":2291, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005581735, "dur":2212, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005584046, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005587833, "dur":149, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1707247005586087, "dur":1904, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005588085, "dur":1622, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005589805, "dur":1160, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005591086, "dur":2699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1707247005593895, "dur":1692, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":8, "ts":1707247005595621, "dur":131690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707247005545944, "dur":4864, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707247005550811, "dur":1444, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707247005552255, "dur":5112, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707247005557381, "dur":172, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":9, "ts":1707247005557368, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1707247005578482, "dur":58, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707247005576902, "dur":1651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":9, "ts":1707247005578667, "dur":1760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707247005580560, "dur":1722, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707247005582384, "dur":2610, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707247005585106, "dur":2244, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707247005589140, "dur":61, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707247005587477, "dur":1738, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707247005590616, "dur":71, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1707247005589367, "dur":1338, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707247005590898, "dur":1923, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707247005592984, "dur":1365, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1707247005594447, "dur":1459, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":9, "ts":1707247005595921, "dur":131423, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707247005546141, "dur":4685, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707247005550828, "dur":89, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707247005550918, "dur":6392, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707247005557311, "dur":221, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1707247005559134, "dur":2850, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":10, "ts":1707247005562079, "dur":165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1707247005562563, "dur":1070, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1707247005563726, "dur":188, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1707247005564175, "dur":2056, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1707247005566397, "dur":4535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005571130, "dur":1465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005572705, "dur":1271, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005574111, "dur":1316, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005575579, "dur":2083, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005577868, "dur":1148, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Projects\\AvianGames\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005577866, "dur":1151, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005579043, "dur":2523, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005581617, "dur":1243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005583026, "dur":1854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005584997, "dur":2137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005587301, "dur":1718, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005591413, "dur":68, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1707247005589171, "dur":2322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005591605, "dur":1970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1707247005593684, "dur":1756, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":10, "ts":1707247005595463, "dur":131850, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707247005546270, "dur":4572, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707247005550842, "dur":6450, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1707247005557315, "dur":168, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1707247005557300, "dur":185, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1707247005577620, "dur":1656, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":11, "ts":1707247005579537, "dur":3016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707247005582756, "dur":2470, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707247005585346, "dur":3041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707247005588598, "dur":2320, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707247005591080, "dur":2948, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1707247005594119, "dur":1938, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/level0" }}
+,{ "pid":12345, "tid":11, "ts":1707247005596077, "dur":131256, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707247005546343, "dur":4507, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707247005550851, "dur":6481, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707247005557346, "dur":159, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.11f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1707247005557333, "dur":173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1707247005559202, "dur":1746, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1707247005561026, "dur":378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1707247005561423, "dur":1257, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1707247005562779, "dur":175, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1707247005562972, "dur":1557, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":12, "ts":1707247005564635, "dur":152, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1707247005565009, "dur":6121, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":12, "ts":1707247005571242, "dur":1363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005572711, "dur":1493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005574330, "dur":1398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005575847, "dur":1412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005577364, "dur":454, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"D:\\Unity Projects\\AvianGames\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005577363, "dur":457, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles Birdpool/AvianGames_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005577841, "dur":1842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005581637, "dur":199, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707247005579718, "dur":2151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005581999, "dur":1976, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005584119, "dur":2349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005586599, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005589863, "dur":111, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707247005588295, "dur":2175, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005590605, "dur":58, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1707247005590666, "dur":1577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005592343, "dur":1581, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1707247005594020, "dur":1637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"Birdpool/AvianGames_Data/level0.resS" }}
+,{ "pid":12345, "tid":12, "ts":1707247005595676, "dur":131688, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1707247005730922, "dur":905, "ph":"X", "name": "ProfilerWriteOutput" }
+,
